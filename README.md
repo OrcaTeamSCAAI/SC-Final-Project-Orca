@@ -33,7 +33,8 @@ Please describe your Startup Campus final project here. You may should your <b>m
 
 ## Dataset
 Describe your dataset information here. Provide a screenshot for some of your dataset samples (for example, if you're using CIFAR10 dataset, then show an image for each class).
-- Link: https://...
+- Dataset 1 Link: [https://...](https://app.roboflow.com/kevin-raihan-jklv5/fruit-yztjl/5)
+- Dataset 2 Link: [https://...](https://app.roboflow.com/rahmans11-rn9us/apel-classify/2)
 
 ## Results
 ### Model Performance
