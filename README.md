@@ -50,13 +50,14 @@ Inform your model validation performances, as follows:
   - For single-image super resolution (SISR) tasks, use **Structural Similarity Index Measure (SSIM)**.
   - For conditional image-to-image translation tasks (e.g., Pix2Pix), use **Inception Score**.
 
+Model DenseNet : Link: [https://colab.research.google.com/drive/1kysPGZkrsLYz6n7IhZMgCJZHUIoqaRKs?hl=id]
 Model LeNet : Link: [https://colab.research.google.com/drive/1kuVexzMlRVgJcTkB6CIkPv8fGZLS36J6?hl=id#scrollTo=UI1Ksn7eB8Zy]
 
 Our Model Specify.
 
 | model | epoch | learning_rate | batch_size | optimizer | val_loss | val_precision | val_recall | ... |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Densenet121 | --- |  0.0001 | --- | Adam | --- | --- | --- | ... |
+| Densenet121 | 200 |  0.001 | 50 | Adam | --- | 83.50% | 66.50% | ... |
 | LeNet | 200 | 0.001 | 50 | Adam | --- | 87.50% | 87.50% | ... |
 
 
