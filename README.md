@@ -82,10 +82,13 @@ Model LeNet Eval
  
 ### Testing
 Show some implementations (demos) of this model. Show **at least 10 images** of how your model performs on the testing data.
+
+Gambar dibawah ini adalah hasil percobaan kami terhadap model yang telah kami buat, kelas 0 merupakan predikisi untuk kelas ARTIFISIAL sedangkan kelas 1 untuk kelas NATURAL
 ![Model Test](https://github.com/OrcaTeamSCAAI/SC-Final-Project-Orca/blob/main/Testing%20Model.jpeg)
 
 ### Deployment (Optional)
 Describe and show how you deploy this project (e.g., using Streamlit or Flask), if any.
+
 Model yang telah kita buat untuk saat ini kami deploy menggunakan streamlit
 
 Link Deployment Streamlit [https://colab.research.google.com/drive/1L7dmIjkVVvImdP-oZEbq3ozs69m5aS6I?hl=id]
