@@ -90,7 +90,7 @@ Provide a screenshot of your Business Model Canvas (BMC). Give some explanations
 
 ### Short Video
 Provide a link to your short video, that should includes the project background and how it works.
-- Link: https://...
+- Link: [https://...](https://www.youtube.com/watch?v=r4BY5qf_xVg)
 
 ## References
 Provide all links that support this final project, i.e., papers, GitHub repositories, websites, etc.
