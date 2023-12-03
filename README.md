@@ -8,7 +8,7 @@ Projek ini bertujuan untuk menciptakan sebuah model AI yang dapat melakukan tuga
 | --- | --- | --- | --- | --- |
 | Kevin Raihan Yassin| Startup Campus, AI Track | raihankevin14@gmail.com | [link](https://www.linkedin.com/in/kevraihany) | Team Lead |
 | Larasati | Startup Campus, AI Track | yayaslarasati881@gmail.com | [link](https://www.linkedin.com/in/larasati-yayas-485ab0278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | Team Member |
-| Safina Octaviana Putri | Startup Campus, AI Track | safinaoctavianap@gmail.com | [link](https://www.linkedin.com/in/safinaoctav-4747r?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |Team Member |
+| Safina Octaviana Putri | Startup Campus, AI Track | safinaoctavianap@gmail.com | [link](https://www.linkedin.com/in/safinaoctav-4747r) |Team Member |
 | Muhammad Roihan Fuady | Startup Campus, AI Track | muhammadroihanf99@gmail.com | [link](https://www.linkedin.com/in/mrfuadyy) | Team Member |
 | Najla Qurrata Aini Putri Yusrizal | Startup Campus, AI Track | najlaqurrata@gmail.com | [link](https://www.linkedin.com/in/najla-qurrata-aini-putri-yusrizal-25571228b) | Team Member |
 | M.Fadhlul Rahman Prabowo | Startup Campus, AI Track | fadhlulrahman687@gmail.com | [link](https://www.linkedin.com/in/fadhlul-rahman-a0787b262/) | Team Member |
