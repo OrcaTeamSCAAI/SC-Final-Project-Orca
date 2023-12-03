@@ -82,7 +82,7 @@ Describe and show how you deploy this project (e.g., using Streamlit or Flask), 
 
 ## Supporting Documents
 ### Presentation Deck
-- Link: https://...
+- Link: [(https://drive.google.com/drive/u/2/folders/1ocDRb6U28rhvdmFnPtIlIv4WTLYglW7g)]
 
 ### Business Model Canvas
 Provide a screenshot of your Business Model Canvas (BMC). Give some explanations, if necessary.
