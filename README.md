@@ -36,7 +36,7 @@ Describe your dataset information here. Provide a screenshot for some of your da
 - Dataset 1 Link: [https://...](https://app.roboflow.com/kevin-raihan-jklv5/fruit-yztjl/5)
 - ![Pict Dataset 1](https://github.com/OrcaTeamSCAAI/SC-Final-Project-Orca/blob/main/BMC.png)
 - Dataset 2 Link: [https://...](https://app.roboflow.com/rahmans11-rn9us/apel-classify/2)
-- ![Pict Dataset 2](https://github.com/OrcaTeamSCAAI/SC-Final-Project-Orca/blob/main/BMC.png)
+  ![Pict Dataset 2](https://github.com/OrcaTeamSCAAI/SC-Final-Project-Orca/blob/main/Pict%20dataset%202.png)
 
 ## Results
 ### Model Performance
