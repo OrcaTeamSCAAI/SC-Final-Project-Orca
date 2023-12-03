@@ -55,7 +55,7 @@ Inform your model validation performances, as follows:
 Our Model Specify.
 
 | model | epoch | learning_rate | batch_size | optimizer | val_precision | val_recall | 
-| --- | --- | --- | --- | --- | --- | --- | --- | 
+| --- | --- | --- | --- | --- | --- | --- | 
 | Densenet121 | 200 |  0.001 | 50 | Adam | 83.50% | 66.50% | 
 | LeNet | 200 | 0.001 | 50 | Adam | 87.50% | 87.50% | 
 
