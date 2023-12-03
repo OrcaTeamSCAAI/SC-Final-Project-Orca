@@ -85,6 +85,7 @@ Show some implementations (demos) of this model. Show **at least 10 images** of 
 
 ### Deployment (Optional)
 Describe and show how you deploy this project (e.g., using Streamlit or Flask), if any.
+![Model Test](https://github.com/OrcaTeamSCAAI/SC-Final-Project-Orca/blob/main/LeNet%20Model%20Eval.png)
 
 ## Supporting Documents
 ### Presentation Deck
