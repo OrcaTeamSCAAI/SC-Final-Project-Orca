@@ -51,6 +51,7 @@ Inform your model validation performances, as follows:
   - For conditional image-to-image translation tasks (e.g., Pix2Pix), use **Inception Score**.
 
 Model DenseNet : Link: [https://colab.research.google.com/drive/1kysPGZkrsLYz6n7IhZMgCJZHUIoqaRKs?hl=id]
+
 Model LeNet : Link: [https://colab.research.google.com/drive/1kuVexzMlRVgJcTkB6CIkPv8fGZLS36J6?hl=id#scrollTo=UI1Ksn7eB8Zy]
 
 Our Model Specify.
