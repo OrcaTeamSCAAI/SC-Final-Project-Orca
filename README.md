@@ -1,7 +1,7 @@
-# FINAL PROJECT TITLE HERE
+# Binary Classification of Artificially Preserved Fruits vs Naturally Fresh Fruits
 
 ## Project Description
-Please describe your Startup Campus final project here. You may should your <b>model architecture</b> in JPEG or GIF.
+Projek ini bertujuan untuk menciptakan sebuah model AI yang dapat melakukan tugas binari klasifikasi dengan arsitektur CNN untuk mengklasifikasikan buah apel yang segar secara alami dengan buah apel yang terlihat segar dengan zat pengawet yang berlebihan.
 
 ## Contributor
 | Full Name | Affiliation | Email | LinkedIn | Role |
