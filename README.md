@@ -78,7 +78,7 @@ Insert an image regarding your training and evaluation performances (especially 
 
 Model LeNet Eval
 
-![Model LeNet Eval]([https://github.com/OrcaTeamSCAAI/SC-Final-Project-Orca/blob/main/LeNet%20Model%20Eval.png])
+![Model LeNet Eval](https://github.com/OrcaTeamSCAAI/SC-Final-Project-Orca/blob/main/LeNet%20Model%20Eval.png)
  
 ### Testing
 Show some implementations (demos) of this model. Show **at least 10 images** of how your model performs on the testing data.
