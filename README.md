@@ -6,7 +6,7 @@ Please describe your Startup Campus final project here. You may should your <b>m
 ## Contributor
 | Full Name | Affiliation | Email | LinkedIn | Role |
 | --- | --- | --- | --- | --- |
-| Kevin Raihan Yassin| ... | raihankevin14@gmail.com | [link](linkedin.com/in/kevraihany) | Team Lead |
+| Kevin Raihan Yassin| ... | raihankevin14@gmail.com | [link](https://www.linkedin.com/in/kevraihany) | Team Lead |
 | ... | ... | ... | ... | Team Member |
 | ... | ... | ... | ... |Team Member |
 | ... | ... | ... | ... | ... |
