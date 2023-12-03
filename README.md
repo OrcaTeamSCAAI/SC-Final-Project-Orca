@@ -10,7 +10,7 @@ Projek ini bertujuan untuk menciptakan sebuah model AI yang dapat melakukan tuga
 | Larasati | Startup Campus, AI Track | yayaslarasati881@gmail.com | [link](https://www.linkedin.com/in/larasati-yayas-485ab0278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | Team Member |
 | Safina Octaviana Putri | Startup Campus, AI Track | safinaoctavianap@gmail.com | [link](https://www.linkedin.com/in/safinaoctav-4747r?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |Team Member |
 | Muhammad Roihan Fuady | Startup Campus, AI Track | muhammadroihanf99@gmail.com | [link](https://www.linkedin.com/in/mrfuadyy) | Team Member |
-| Najla Qurrata Aini Putri Yusrizal | Startup Campus, AI Track | najlaqurrata@gmail.com | [link](https://github.com/najlaqurrata) | Team Member |
+| Najla Qurrata Aini Putri Yusrizal | Startup Campus, AI Track | najlaqurrata@gmail.com | [link](https://www.linkedin.com/in/najla-qurrata-aini-putri-yusrizal-25571228b) | Team Member |
 | M.Fadhlul Rahman Prabowo | Startup Campus, AI Track | fadhlulrahman687@gmail.com | [link](https://www.linkedin.com/in/fadhlul-rahman-a0787b262/) | Team Member |
 
 ## Setup
@@ -51,10 +51,6 @@ Inform your model validation performances, as follows:
 - For adversarial-based generative tasks, use **Peak Signal-to-Noise Ratio (PNSR)**. Additionally, for specific GAN tasks,
   - For single-image super resolution (SISR) tasks, use **Structural Similarity Index Measure (SSIM)**.
   - For conditional image-to-image translation tasks (e.g., Pix2Pix), use **Inception Score**.
-
-Model DenseNet : Link: [https://colab.research.google.com/drive/1kysPGZkrsLYz6n7IhZMgCJZHUIoqaRKs?hl=id]
-
-Model LeNet : Link: [https://colab.research.google.com/drive/1kuVexzMlRVgJcTkB6CIkPv8fGZLS36J6?hl=id#scrollTo=UI1Ksn7eB8Zy]
 
 Our Model Specify.
 
@@ -110,9 +106,9 @@ Provide all links that support this final project, i.e., papers, GitHub reposito
 
 ## Additional Comments
 Provide your team's additional comments or final remarks for this project. For example,
-1. ...
-2. ...
-3. ...
+1. Model DenseNet : Link: [https://colab.research.google.com/drive/1kysPGZkrsLYz6n7IhZMgCJZHUIoqaRKs?hl=id]
+2. Model LeNet : Link: [https://colab.research.google.com/drive/1kuVexzMlRVgJcTkB6CIkPv8fGZLS36J6?hl=id#scrollTo=UI1Ksn7eB8Zy]
+3. Model Deployment in Streamlit : Link:[https://colab.research.google.com/drive/1L7dmIjkVVvImdP-oZEbq3ozs69m5aS6I?hl=id]
 
 ## How to Cite
 If you find this project useful, we'd grateful if you cite this repository:
