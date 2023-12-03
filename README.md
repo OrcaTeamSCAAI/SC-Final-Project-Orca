@@ -77,6 +77,7 @@ Any improvements or modifications of your base model, should be summarized in th
 Insert an image regarding your training and evaluation performances (especially their losses). The aim is to assess whether your model is fit, overfit, or underfit.
 
 Model LeNet Eval
+
 ![Model LeNet Eval]([https://github.com/OrcaTeamSCAAI/SC-Final-Project-Orca/blob/main/LeNet%20Model%20Eval.png])
  
 ### Testing
